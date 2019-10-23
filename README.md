@@ -2,6 +2,11 @@
 
 > Eine Webplattform (Django/Python) auf der Künstler ihre Fotografien posten können, diese auf einem Profil vorstellen und ihre besten Werke anpinnen können. 
 
+## feature/merge1
+Änderung merge 1 - 1
+Änderung merge 1 - 2
+Änderung merge 1 - 3
+
 ## Besonderheiten
 Besonderheiten:
 - Nach Angabe eines Instagramm/Em/etc...-Profils wird unser Webscrapper die Bilder aus deren Profil auf unsere Plattform automatisch importieren
