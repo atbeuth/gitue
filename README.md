@@ -2,10 +2,10 @@
 
 > Eine Webplattform (Django/Python) auf der Künstler ihre Fotografien posten können, diese auf einem Profil vorstellen und ihre besten Werke anpinnen können. 
 
-## feature/merge1
-Änderung merge 1 - 1
-Änderung merge 1 - 2
-Änderung merge 1 - 3
+## feature/merge2
+Änderung merge 2 - 1
+Änderung merge 2 - 2
+Änderung merge 2 - 3
 
 ## Besonderheiten
 Besonderheiten:
