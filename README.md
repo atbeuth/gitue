@@ -4,6 +4,7 @@
 
 ## feature/merge1
 Änderung merge 1 - 1
+Änderung merge 1 - 2
 
 ## Besonderheiten
 Besonderheiten:
