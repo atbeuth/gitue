@@ -1,6 +1,11 @@
 # PhotoHub
 
-> Eine Webplattform (Django/Python) auf der Künstler ihre Fotografien posten können, diese auf einem Profil vorstellen und ihre besten Werke anpinnen können. 
+> Eine Webplattform (Django/Python) auf der Künstler ihre Fotografien posten können, diese auf einem Profil vorstellen und ihre besten Werke anpinnen können.
+
+## feature/rebase
+Änderung rebase - 1
+Änderung rebase - 2
+Änderung rebase - 3
 
 ## feature/rebase
 Änderung rebase - 1
